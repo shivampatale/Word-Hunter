@@ -4,7 +4,7 @@ Word Hunter is a simple Python-based word guessing game made using Pygame.
 
 The player has to guess the hidden word by selecting letters. A hint is provided to help the player guess the correct word.
 
-🎯 Features
+## 🎯 Features
 🎮 Simple and interactive Pygame interface
 💡 Hint for every word
 🔤 Clickable alphabet buttons
