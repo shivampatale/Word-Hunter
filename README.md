@@ -1,4 +1,4 @@
-🎮 Word Hunter
+#🎮 Word Hunter
 
 Word Hunter is a simple Python-based word guessing game made using Pygame.
 
