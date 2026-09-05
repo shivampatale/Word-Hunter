@@ -1,4 +1,4 @@
-## **🎮 Word Hunter**
+## **🎮 Word Hunter Game**
 
 Word Hunter is a simple Python-based word guessing game made using Pygame.
 
@@ -25,18 +25,18 @@ Functions
 Searching using in
 Random selection
 Basic Pygame event handling
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 Python
 Pygame
 Git & GitHub
-📂 Project Structure
+## 📂 Project Structure
 Word-Hunter/
 │
 ├── main.py
 ├── requirements.txt
 └── README.md
 
-⚙️ Installation
+## ⚙️ Installation
 
 Make sure Python is installed on your computer.
 
@@ -49,7 +49,7 @@ Or install the required packages using:
 
 pip install -r requirements.txt
 
-▶️ How to Run
+## ▶️ How to Run
 
 Clone the repository:
 
@@ -65,7 +65,7 @@ Run the game:
 
 python main.py
 
-🎮 How to Play
+## 🎮 How to Play
 Start the game.
 Read the hint displayed on the screen.
 Click a letter from the alphabet.
@@ -74,24 +74,8 @@ A correct guess gives 10 points.
 A wrong guess reduces one life.
 Guess the complete word before losing all 6 lives.
 After the game ends, choose PLAY AGAIN or EXIT.
-📸 Game Preview
 
-Add a screenshot of your game here:
-
-![Word Hunter Game](screenshot.png)
-
-🚀 Future Improvements
-
-Some possible improvements for future versions:
-
-Add difficulty levels
-Add more words and categories
-Add sound effects
-Add background music
-Add a leaderboard
-Add more visual effects
-Add a timer
-👨‍💻 Author
+## 👨‍💻 Author
 
 Shivam Patale
 
